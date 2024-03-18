@@ -5,7 +5,7 @@ Hello and welcome to the official repository of the INVICTA Spring School 2024.
 
 
 ## Training Brain-Inspired Spiking Neural Networks Using Lessons from Deep Learning
-Lecture by Jason Eshraghian - [Slides](brain-snn/)
+Lecture by Jason Eshraghian - [Slides](brain-snn/slides/slides.pdf)
 
 Hands-On by Jason Eshraghian - | [Notebook](brain-snn/)
 
