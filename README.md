@@ -10,3 +10,8 @@ Lecture by Jason Eshraghian - [Slides](brain-snn/slides/slides.pdf)
 Hands-On by Jason Eshraghian - [Notebooks](brain-snn/notebooks)
 
 GitHub by Jasaon Eshraghian - [GitHub](https://github.com/jeshraghian/invicta-spring-school)
+
+
+
+## AI Talks
+AI Talk by Kelwin Fernandes - [Slides](invicta-2024/ai-talks/KelwinFernandes/slides.pdf)
