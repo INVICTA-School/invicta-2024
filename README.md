@@ -11,7 +11,7 @@ Hands-On by Jason Eshraghian - [Notebooks](brain-snn/notebooks)
 
 GitHub by Jason Eshraghian - [GitHub](https://github.com/jeshraghian/invicta-spring-school)
 
-##Continual Learning
+## Continual Learning
 Lecture by Gido van de Ven - [Slides](ContinualLearning/slides_SpringSchool_Mar2024.pdf)
 
 Hands-On by Gido van de Ven - [Notebooks](ContinualLearning/Hands_on_Tutorial_Continual_Learing.ipynb)
