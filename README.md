@@ -14,4 +14,4 @@ GitHub by Jasaon Eshraghian - [GitHub](https://github.com/jeshraghian/invicta-sp
 
 
 ## AI Talks
-AI Talk by Kelwin Fernandes - [Slides](invicta-2024/ai-talks/KelwinFernandes/slides.pdf)
+AI Talk by Kelwin Fernandes - [Slides](ai-talks/KelwinFernandes/slides.pdf)
