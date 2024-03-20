@@ -14,10 +14,14 @@ GitHub by Jason Eshraghian - [GitHub](https://github.com/jeshraghian/invicta-spr
 ## Continual Learning
 Lecture by Gido van de Ven - [Slides](ContinualLearning/slides_SpringSchool_Mar2024.pdf)
 
-Hands-On by Gido van de Ven - [Notebooks](ContinualLearning/Hands_on_Tutorial_Continual_Learing.ipynb)
+Hands-On by Gido van de Ven - [Notebook](ContinualLearning/Hands_on_Tutorial_Continual_Learing.ipynb)
 
 GitHub by Gido van de Ven - [GitHub](https://github.com/GMvandeVen)
 
+# Causality for Machine Learning
+Lecture by Julius von Kügelgen - [Slides](causal-ml/slides/slides.pdf)
+
+Hands-On by Julius von Kügelgen - [Notebooks](causal-ml/notebooks/)
 
 
 
