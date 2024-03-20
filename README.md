@@ -18,7 +18,7 @@ Hands-On by Gido van de Ven - [Notebook](ContinualLearning/Hands_on_Tutorial_Con
 
 GitHub by Gido van de Ven - [GitHub](https://github.com/GMvandeVen)
 
-# Causality for Machine Learning
+## Causality for Machine Learning
 Lecture by Julius von Kügelgen - [Slides](causal-ml/slides/slides.pdf)
 
 Hands-On by Julius von Kügelgen - [Notebooks](causal-ml/notebooks/)
