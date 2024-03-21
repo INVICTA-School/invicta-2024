@@ -25,9 +25,9 @@ Lecture by Julius von Kügelgen - [Slides](causal-ml/slides/slides.pdf)
 Hands-On by Julius von Kügelgen - [Notebooks](causal-ml/notebooks/)
 
 ## Explainable AI
-Lecture by Anna Hedström - [Slides]()
+Lecture by Anna Hedström - [Slides](xai/slides/)
 
-Hands-On by Anna Hedström - [Notebooks](xai/Quantus_x_INVICTA_Keynote_Series_%E2%80%94_Explainable_AI_Mon18.ipynb)
+Hands-On by Anna Hedström - [Notebooks](xai/notebooks/)
 
 GitHub by Anna Hedström - [GitHub](https://github.com/annahedstroem)
 
