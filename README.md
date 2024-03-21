@@ -19,11 +19,17 @@ Hands-On by Gido van de Ven - [Notebook](ContinualLearning/Hands_on_Tutorial_Con
 GitHub by Gido van de Ven - [GitHub](https://github.com/GMvandeVen)
 
 ## Causality for Machine Learning
+
 Lecture by Julius von Kügelgen - [Slides](causal-ml/slides/slides.pdf)
 
 Hands-On by Julius von Kügelgen - [Notebooks](causal-ml/notebooks/)
 
+## Explainable AI
+Lecture by Anna Hedström - [Slides]()
 
+Hands-On by Anna Hedström - [Notebooks](xai/Quantus_x_INVICTA_Keynote_Series_%E2%80%94_Explainable_AI_Mon18.ipynb)
+
+GitHub by Anna Hedström - [GitHub](https://github.com/annahedstroem)
 
 ## AI Talks
 AI Talk by Kelwin Fernandes - [Slides](ai-talks/KelwinFernandes/slides.pdf)
