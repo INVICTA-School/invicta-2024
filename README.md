@@ -33,3 +33,7 @@ GitHub by Anna Hedström - [GitHub](https://github.com/annahedstroem)
 
 ## AI Talks
 AI Talk by Kelwin Fernandes - [Slides](ai-talks/KelwinFernandes/slides.pdf)
+
+AI Talk by Bosch - [Slides](ai-talks/Bosch/PERAI_FEATURES_BOSCH.pdf)
+
+AI Talk by Susana Lai-Yuen - [Slides](ai-talks/SusanaLaiYuen/Lai-Yuen_Susana_Invicta_School_March2024.pdf)
