@@ -31,9 +31,16 @@ Hands-On by Anna Hedström - [Notebooks](xai/notebooks/)
 
 GitHub by Anna Hedström - [GitHub](https://github.com/annahedstroem)
 
+## Learning from synthetic data - generation for learning
+Lecture by Fadi Boutros (on behalf of Naser Damer) - [Slides](syntheticData/INVICTA.pdf)
+
+Hands-On by Fadi Boutros (on behalf of Naser Damer) - [Slides](syntheticData/INVICTA_HO.pdf) | [Auxiliary Material](syntheticData/controlNet.txt)
+
 ## AI Talks
 AI Talk by Kelwin Fernandes - [Slides](ai-talks/KelwinFernandes/slides.pdf)
 
 AI Talk by Bosch - [Slides](ai-talks/Bosch/PERAI_FEATURES_BOSCH.pdf)
 
 AI Talk by Susana Lai-Yuen - [Slides](ai-talks/SusanaLaiYuen/Lai-Yuen_Susana_Invicta_School_March2024.pdf)
+
+AI Talk by Fraunhofer Portugal - TBA
