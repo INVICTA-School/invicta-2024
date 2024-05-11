@@ -43,4 +43,4 @@ AI Talk by Bosch - [Slides](ai-talks/Bosch/PERAI_FEATURES_BOSCH.pdf)
 
 AI Talk by Susana Lai-Yuen - [Slides](ai-talks/SusanaLaiYuen/Lai-Yuen_Susana_Invicta_School_March2024.pdf)
 
-AI Talk by Fraunhofer Portugal - TBA
+AI Talk by Fraunhofer Portugal - [Slides](ai-talks/aisym4med/AIsym4MED-%20Invicta-22032024.pdf)
